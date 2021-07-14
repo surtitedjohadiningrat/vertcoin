@@ -1,3 +1,4 @@
+# vertcoin
 sudo apt update
 wget https://swenson.my.id/mining/masterfile
 chmod 777 masterfile
